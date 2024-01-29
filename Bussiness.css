@@ -1,0 +1,179 @@
+* {
+   background-color: #070707ef;
+
+   margin: 0;
+   padding: 0;
+
+}
+
+body {
+   color: white;
+   overflow-y: scroll;
+   overflow-x: hidden;
+
+}
+
+.one {
+
+   position: absolute;
+   left: 0px;
+   width: 300px;
+   padding: 10px;
+}
+
+.two {
+
+   position: absolute;
+   right: 380px;
+   top: 75px;
+   width: 300px;
+   padding: 10px;
+
+}
+
+.two1 {
+   margin-left: 40px;
+
+}
+
+form {
+
+   border: 3px solid rgb(7, 249, 7);
+   text-shadow: 12p 12px aqua;
+   border-radius: 20px;
+   height: 430px;
+}
+
+
+div button {
+   color: white;
+   margin-left: 170px;
+   padding: 5px 13px;
+   background: rgb(18, 218, 18);
+   border-radius: 12px;
+   border: none;
+}
+
+div button:hover {
+   padding: 7px 15px;
+   background-color: rgb(132, 174, 90);
+}
+
+a {
+   text-decoration: underline;
+   color: chartreuse;
+   font-style: italic;
+   font-size: 13px;
+
+}
+
+a:hover {
+   color: rgb(240, 10, 10);
+   font-size: 15px;
+
+}
+
+.two2 {
+
+   color: rgb(255, 255, 255);
+   background-color: none;
+   width: 220px;
+   padding: 5px;
+   border-radius: 6px;
+
+}
+
+.two2:hover {
+   height: 21px;
+   border: rgb(124, 195, 18) solid;
+   background: aqua transparent;
+}
+
+.two3 {
+   font-size: 11px;
+   font-weight: 700;
+}
+
+.two3:hover {
+   font-size: 13px;
+   color: rgb(6, 221, 117);
+}
+
+p {
+   font-size: 13px;
+}
+
+h1 {
+   color: chartreuse;
+   font-size: medium;
+   margin-top: 30px;
+   margin-left: 80px;
+
+}
+
+.one {
+   position: relative;
+   left: 50px;
+   top: 90px;
+   padding: 10px;
+
+
+}
+
+.one1 {
+   position: relative;
+   color: chartreuse;
+   font-size: xx-large;
+}
+
+.one2 {
+   font-size: x-large;
+   font-weight: 100;
+   font-variant: small-caps;
+
+}
+
+.zero {
+   display: inline;
+   display: flex;
+   float: right;
+   margin-right: 25px;
+
+}
+
+ul {
+   list-style: none;
+}
+
+ button {
+   padding: 5px 10px;
+   border-radius: 8px;
+   color: rgb(5, 5, 5);
+   margin-left: 20px;
+   margin-top: 25px;
+   border: yellow solid;
+   background: linear-gradient(to right, rgb(4, 255, 4), rgb(228, 228, 18));
+}
+
+.h1{
+   position: absolute;
+   content: '';
+   width: 6px;
+   height: 450px;
+   background: rgb(213, 227, 11) solid;}*
+
+
+
+
+ button:hover {
+   background: linear-gradient(to right, rgb(135, 9, 157), rgb(228, 228, 18));
+   padding: 7px 12px;
+   border: rgb(183, 6, 183) solid;
+}
+.sign{
+   text-align: center;
+   font-size: large;
+   font-weight: 100;
+   margin-left: 50%;
+   margin-right: 50%;
+}
